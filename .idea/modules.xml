@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FirebaseFacebookLogin.iml" filepath="$PROJECT_DIR$/.idea/modules/FirebaseFacebookLogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FirebaseFacebookLogin.iml" filepath="$PROJECT_DIR$/.idea/modules/FirebaseFacebookLogin.iml" group="FirebaseFacebookLogin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="FirebaseFacebookLogin/app" />
     </modules>
   </component>
 </project>
